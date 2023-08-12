@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: /private/
 
-Sitemap: https://www.onewiex.net/sitemap.xml
+Sitemap: https://www.onewiex.site/sitemap.xml

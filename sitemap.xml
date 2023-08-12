@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>https://www.onewiex.net/about.html</loc>
+        <loc>https://www.onewiex.site/about.html</loc>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://www.onewiex.net/account.html</loc>
+        <loc>https://www.onewiex.site/account.html</loc>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://www.onewiex.net/contacts.html</loc>
+        <loc>https://www.onewiex.site/contacts.html</loc>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>https://www.onewiex.net/index.html</loc>
+        <loc>https://www.onewiex.site/index.html</loc>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://www.onewiex.net/marketing.html</loc>
+        <loc>https://www.onewiex.site/marketing.html</loc>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>https://www.onewiex.net/news.html</loc>
+        <loc>https://www.onewiex.site/news.html</loc>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>https://www.onewiex.net/partners.html</loc>
+        <loc>https://www.onewiex.site/partners.html</loc>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>https://www.onewiex.net/signup.html</loc>
+        <loc>https://www.onewiex.site/signup.html</loc>
         <priority>0.7</priority>
     </url>
 </urlset>
